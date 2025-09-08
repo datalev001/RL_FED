@@ -1,2 +1,7 @@
-# RL_FED
+# When the Fed Raises Rates: Why Markets Sometimes Cheer and Sometimes Panic
 Exploring the Nonlinear Dance Between Monetary Policy, Market Narratives, and AI-Powered Learning Models
+Every time the Federal Reserve announces a rate hike, investors hold their breath. Will stocks plunge because borrowing costs rise and growth slows? Or will they surge because the hike is seen as a sign of confidence, or even as a step toward taming inflation?
+This puzzle happens again and again: the same policy action might have different market reactions. Sometimes "bad news" (like weaker jobs data) turns into "good news" for Wall Street, because it hints at easier money ahead. Other times, "bad news" really is bad news.
+What's going on here isn't just noise - it's a nonlinear, shifting chain of cause and effect. Rate hikes interact with inflation, unemployment, and market expectations in ways that change over time. Investors aren't reacting to the numbers alone; they quickly react to the story those numbers tell.
+This is exactly where modern tools like causal modeling, graph-based time series analysis, and reinforcement learning (even inverse RL) can add value. Instead of assuming markets always follow a straight line, these approaches embrace complexity: they let us model evolving cause-and-effect structures, capture hidden patterns in how narratives shift, and even learn dynamic strategies for adapting portfolios.
+I'll walk you through why this problem matters, why the usual "linear" models fall short, and how new methods from AI research may give investors an edge. Along the way, we'll explore real-world examples, highlight where models can (and can't) help, and open up questions about how humans and machines interpret economic signals differently.
